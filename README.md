@@ -8,7 +8,7 @@ The child process will interact with the user via stdin and stdout. It first pro
 # Tutorial
 - First, Use the _make_ command to produce the excutable file and run it. As shown below:
 
-<img src="screenshots/run_guess.png" width="800">
+<img src="screenshots/run_guess.png" width="700">
 
 - Next, input the secret number from 0 to 1023 inclusively. As shown below:
 
